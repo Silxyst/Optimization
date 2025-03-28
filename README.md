@@ -69,7 +69,7 @@ Ajusta as configurações de rede para melhorar a qualidade da conexão, acelera
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para fazer um **fork** deste repositório e enviar um **pull request**.
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para fazer um **fork** deste repositório e enviar um  [DONATE](https://pixgg.com/Silvy)
 
 ---
 
