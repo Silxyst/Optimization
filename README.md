@@ -24,7 +24,7 @@ O *Optimization Tool by sil.xyst* é uma ferramenta simples e eficaz para otimiz
 
 ## 📸 Exemplo de Menu
 
-![Menu do Script]([https://via.placeholder.com/600x300.png?text=Menu+do+Script](https://prnt.sc/kryxiM-PmCOt))
+![Menu do Script]([[https://via.placeholder.com/600x300.png?text=Menu+do+Script](https://prnt.sc/kryxiM-PmCOt)](https://prnt.sc/kryxiM-PmCOt))
 
 O script exibe um menu simples e intuitivo com várias opções para otimizar seu sistema.
 
