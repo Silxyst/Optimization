@@ -1,3 +1,12 @@
+## 📥 Baixar
+
+Você pode baixar a ferramenta de otimização diretamente clicando no link abaixo:
+
+# [**Download**](https://github.com/nwkS2/Optimization/releases)
+
+Basta clicar no link e o download começará automaticamente. Após o download, basta seguir as instruções de uso para otimizar seu sistema!
+
+
 # Optimization Tool by sil.xyst 🚀
 
 ## 📝 Descrição
